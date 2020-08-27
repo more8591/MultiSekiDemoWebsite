@@ -1,4 +1,7 @@
 # MultiSekiDemoWebsite
-This is a marketing demo website.
+This is a marketing demo front website that heavly uses Bootstrap as its main frame.
 
-I'm trying to create and test out websites.
+Use the link below to access the website
+https://more8591.github.io/MultiSekiDemoWebsite/
+
+
